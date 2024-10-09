@@ -1,5 +1,5 @@
 
-# README - Llama 3 Quantization with HQQ and Fine-Tuning
+# README - Llama 3 Quantization with HQQ
 
 ## Overview
 
